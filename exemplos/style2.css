@@ -1,0 +1,15 @@
+/* seletor universal */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* seletor por elemnto */
+body {
+    background-color: beige;
+    color: blueviolet;
+
+}
+
+label {
+    font-size: 18px;
+}
